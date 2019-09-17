@@ -1,0 +1,33 @@
+============ Prime number ===============
+Description: Number which divides by itself is known as 'Prime Number'
+
+Condition:
+1. Take a number from console store it in variable(int num).
+2. Need to run loop for for num/2.......(int i=2;i = num/2 times;i++).
+3. Within loop check for remainder...temp = num%i, if temp is equals to 0 then it is not a prime number.
+
+
+=========== Fibonacci series =============
+Description: 0 1 1 2 3 5 8 13 21
+
+Condition:
+1. Store(int a and b) and Print 2 values 0 and 1
+2. Run loop for number of times as per your requirement.
+3. Add 2 values int c= a+b and print it.
+4. Swap a=b and b=c
+
+
+=============== Pattern ===================
+Description :
+1
+1 2
+1 2 3
+1 2 3 4
+
+Condition:
+1. Require 2 loops(Outer and inner loop)
+2. First loop (int i=1;i<5;i++)
+3. Second loop (int j=1;j<i;j++)
+4. Within second loop print j value on single line
+5. Outside loop add println to print the value of j on next line
+
